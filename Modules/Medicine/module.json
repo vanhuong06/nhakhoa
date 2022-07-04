@@ -1,0 +1,18 @@
+{
+    "name": "Medicine",
+    "alias": "medicine",
+    "description": "",
+    "keywords": [],
+    "version": "1.0.0",
+	"active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Medicine\\Providers\\MedicineServiceProvider",
+        "Modules\\Medicine\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        
+    ],
+    "requires": []
+}
